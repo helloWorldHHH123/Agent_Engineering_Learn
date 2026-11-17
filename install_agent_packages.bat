@@ -1,6 +1,6 @@
 @echo off
 setlocal
-set "PYTHON=E:\Document\BeiFen\AIClass\Anaconda3Virtual\conda\envs\AgentPy311\python.exe"
+set "PYTHON=xxx\python.exe"
 
 if not exist "%PYTHON%" (
     echo ERROR: Python not found at:
